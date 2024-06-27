@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="register">Daftar Dulu</string>
+    <string name="title_register">Ayo lengkapi data dirimu dulu!</string>
+    <string name="register_name">Nama Lengkap</string>
+    <string name="register_email">Email Aktif</string>
+    <string name="register_password">Kata Sandi</string>
+    <string name="title_login">Belum punya akun? Daftar dulu ya!</string>
+    <string name="message_login">Isi datamu</string>
+    <string name="login">Masuk Dulu</string>
+    <string name="login_email">Email Aktif</string>
+    <string name="login_password">Kata Sandi</string>
+    <string name="title_welcome">Selamat Datang di Story Application!</string>
+    <string name="title_story">Story Application</string>
+    <string name="description_story">Deskripsi Cerita</string>
+    <string name="Username">Username</string>
+    <string name="add_story">Unggah Cerita</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="logout">Logout</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="title_add_story">Tambah Story</string>
+    <string name="input_name">Masukkan Nama</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="map">map</string>
+    <string name="title_map">Map</string>
+</resources>
